@@ -1,0 +1,4 @@
+- **Disponível (Online)**: Representa o estado ativo de um usuário.
+- **Ausente (Idle)**: Representa o estado de inatividade, mas o usuário ainda está online.
+- **Não Perturbe (DND)**: Representa o estado onde o usuário não deseja ser interrompido.
+- **Invisível (Offline)**: Representa o estado em que o usuário não está visível para outros, mas ainda está online.
